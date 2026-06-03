@@ -448,7 +448,7 @@ function renderLanding() {
   <section class="hero">
     <div class="hero-content">
       <div class="hero-badge"><span class="hero-badge-dot"></span>Inteligencia de Trading con IA</div>
-      <h1>Opera más inteligente con <span>Quantum AI</span></h1>
+      <h1>Opera más inteligente con <span>QuantAI</span></h1>
       <p>QuantAI combina modelos cuantitativos de nivel institucional con datos de mercado en tiempo real e insights de IA generativa — para que cada operación esté respaldada por datos, no por suposiciones.</p>
       <div class="hero-actions">
         <button class="btn btn-primary btn-lg" data-nav="/register">Iniciar prueba gratuita</button>
